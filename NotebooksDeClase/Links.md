@@ -1,1 +1,2 @@
 - [Introduction to Apriori Algorithm in Python](https://intellipaat.com/blog/data-science-apriori-algorithm/?US)
+- [Análisis de Componentes Principales (Principal Component Analysis, PCA) y t-SNE](https://cienciadedatos.net/documentos/35_principal_component_analysis)
