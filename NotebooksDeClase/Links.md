@@ -1,0 +1,1 @@
+- [Introduction to Apriori Algorithm in Python](https://intellipaat.com/blog/data-science-apriori-algorithm/?US)
